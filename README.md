@@ -63,7 +63,7 @@ String usuario = "root";
 String contraseña = "tu_contraseña";
 
 📁 Estructura del proyecto
-
+```
 src/
 │
 ├── Main.java
@@ -81,7 +81,7 @@ src/
 └── dao/
     ├── UsuarioDAO.java
     └── ProductoDAO.java
-
+```
 📝 Notas
 Asegúrate de que el servicio de MySQL esté corriendo antes de iniciar la aplicación.
 
